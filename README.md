@@ -1,4 +1,4 @@
-# Custom Linux Distro cho IoT Gateway — Đồ án tốt nghiệp
+# Custom Linux Distro cho IoT Gateway
 
 Xây dựng hệ điều hành Linux nhúng tùy chỉnh dành cho **Orange Pi Zero H3** (ARMv7) và **VMware** (x86_64 có GUI), phục vụ làm IoT Gateway.
 
