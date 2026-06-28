@@ -1,0 +1,16 @@
+{
+  "instructions": [
+    "IoT project: Custom Linux distro for Orange Pi Zero H3",
+    "Buildroot-based, Qt5 GUI, MQTT/Modbus/CoAP",
+    "Thesis deadline: 1 month"
+  ],
+  "mcp": {
+    "gitnexus": {
+      "type": "local",
+      "command": [
+        "C:\\Users\\ntv\\AppData\\Roaming\\npm\\gitnexus.cmd",
+        "mcp"
+      ]
+    }
+  }
+}

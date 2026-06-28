@@ -1,0 +1,21 @@
+# Buildroot
+buildroot/output/
+buildroot/dl/
+buildroot/build/
+buildroot/staging/
+buildroot/target/
+
+# Binary files
+*.bin
+*.img
+*.trx
+
+# Node modules
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# GitNexus
+.gitnexus/

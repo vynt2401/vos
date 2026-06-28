@@ -1,0 +1,5 @@
+D:/WORK/FINAL_PROJECT/app/cpp-qt5/build/CMakeFiles/iot-gateway.dir
+D:/WORK/FINAL_PROJECT/app/cpp-qt5/build/CMakeFiles/edit_cache.dir
+D:/WORK/FINAL_PROJECT/app/cpp-qt5/build/CMakeFiles/rebuild_cache.dir
+D:/WORK/FINAL_PROJECT/app/cpp-qt5/build/CMakeFiles/iot-gateway_autogen_timestamp_deps.dir
+D:/WORK/FINAL_PROJECT/app/cpp-qt5/build/CMakeFiles/iot-gateway_autogen.dir

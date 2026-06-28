@@ -1,0 +1,1 @@
+ C:/msys64/ucrt64/lib/libQt5Widgets.dll.a C:/msys64/ucrt64/lib/libQt5Network.dll.a -lws2_32 C:/msys64/ucrt64/lib/libQt5Gui.dll.a C:/msys64/ucrt64/lib/libQt5Core.dll.a C:/msys64/ucrt64/lib/libqtmain.a -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
